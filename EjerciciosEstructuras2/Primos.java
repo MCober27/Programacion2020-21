@@ -1,4 +1,4 @@
-package EjerciciosOperadores2;
+package EjerciciosEstructuras2;
 
 public class Primos {
 	

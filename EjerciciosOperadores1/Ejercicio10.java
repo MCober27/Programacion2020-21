@@ -1,4 +1,4 @@
-package ejercicios_operadores_1;
+package EjerciciosOperadores1;
 
 /*
  *	10.- Partiendo del número 1000 dividirlo por 2.3, luego

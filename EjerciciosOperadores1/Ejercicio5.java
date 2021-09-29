@@ -1,4 +1,4 @@
-package ejercicios_operadores_1;
+package EjerciciosOperadores1;
 
 /*
  * 	5.- Crear dos variables, una con el valor 15 y otra con el valor

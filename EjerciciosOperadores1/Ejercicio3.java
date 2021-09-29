@@ -1,4 +1,4 @@
-package ejercicios_operadores_1;
+package EjerciciosOperadores1;
 
 /*
  * 	3.- Crear una variable con el valor 10. Sumarle 1 a esta variable

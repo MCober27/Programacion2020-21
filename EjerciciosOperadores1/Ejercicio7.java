@@ -1,4 +1,4 @@
-package ejercicios_operadores_1;
+package EjerciciosOperadores1;
 
 /*
  *	7.- Crear una variable que guarde el carácter ‘v’, otra el

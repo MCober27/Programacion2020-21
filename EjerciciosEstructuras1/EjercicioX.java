@@ -1,4 +1,4 @@
-package EjerciciosEstructuras;
+package EjerciciosEstructuras1;
 
 	/*
 	 * 	10.-Obtener la suma de todos los números impares entre 3 y

@@ -1,4 +1,4 @@
-package EjerciciosEstructuras;
+package EjerciciosEstructuras1;
 
 	/*
 	 * 	1.- Obtener un listado de todos los números pares del 2 al 20.

@@ -1,4 +1,4 @@
-package EjerciciosEstructuras;
+package EjerciciosEstructuras1;
 
 	/*
 	 * 	4.- Obtener un listado de todos los números múltiplos de 4 entre 4 y 40

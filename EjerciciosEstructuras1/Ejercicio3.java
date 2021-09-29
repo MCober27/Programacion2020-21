@@ -1,4 +1,4 @@
-package EjerciciosEstructuras;
+package EjerciciosEstructuras1;
 
 	/*
 	 * 	3.- Obtener un listado de todos los números del -30 al 30.

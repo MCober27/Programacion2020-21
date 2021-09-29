@@ -1,4 +1,4 @@
-package ejercicios_operadores_1;
+package EjerciciosOperadores1;
 
 /*
  *	8.- Crear una variable booleana y darle el valor true. Crear
@@ -15,7 +15,7 @@ public class Ejercicio8 {
 				y = false;
 		
 		//La que dará fallo
-		boolean z = algo;
+		//boolean z = algo;
 		
 	}
 

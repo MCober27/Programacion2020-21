@@ -1,4 +1,4 @@
-package EjerciciosEstructuras;
+package EjerciciosEstructuras1;
 
 	/*
 	 * 	4.- Sin utilizar la sentencia FOR sacar un listado de todos

@@ -1,4 +1,4 @@
-package EjerciciosEstructuras;
+package EjerciciosEstructuras1;
 
 	/*
 	 * 	8.- Obtener un listado de los números pares entre -20 y 0 y a

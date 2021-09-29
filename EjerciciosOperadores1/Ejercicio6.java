@@ -1,4 +1,4 @@
-package ejercicios_operadores_1;
+package EjerciciosOperadores1;
 
 /*
  *	6.- Crear una variable con el valor 4. Obtener el módulo 2, 3

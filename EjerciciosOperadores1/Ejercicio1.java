@@ -1,4 +1,4 @@
-package ejercicios_operadores_1;
+package EjerciciosOperadores1;
 
 /*
  * 	1.- Crear tres variables con los valores 10, 20 y 30. Obtener

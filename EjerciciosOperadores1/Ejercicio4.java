@@ -1,4 +1,4 @@
-package ejercicios_operadores_1;
+package EjerciciosOperadores1;
 
 /*
  * 	4.- Crear dos variables con el valor 4 y 9. Obtener una variable

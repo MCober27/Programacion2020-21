@@ -1,4 +1,4 @@
-package EjerciciosEstructuras;
+package EjerciciosEstructuras1;
 
 	/*
 	 * 	4.- Obtener un listado de todos los numeros del 1 al 100 que contenga un 8

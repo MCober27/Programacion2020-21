@@ -1,4 +1,4 @@
-package EjerciciosEstructuras;
+package EjerciciosEstructuras1;
 
 	/*
 	 * 	7.- Sin utilizar la sentencia FOR haced una lista de 10 a -10 seguido a continuacion
